@@ -9,14 +9,14 @@ Here are some guidelines to help you contribute:
 ## How Can I Contribute?
 
 ### Reporting Bugs
-If you find a bug, please open an [Issue](https://github.com/imknott/jinnys-patch-tracker/issues) with:
+If you find a bug, please open an [Issue](https://github.com/imknott/Jinnys_Patch_Tracker/issues) with:
 - A clear title and description
 - Steps to reproduce
 - Expected behavior
 - Screenshots (if applicable)
 
 ### Suggesting Enhancements
-Feature requests are welcome! Please open an [Issue](https://github.com/imknott/jinnys-patch-tracker/issues) and clearly describe:
+Feature requests are welcome! Please open an [Issue](https://github.com/imknott/Jinnys_Patch_Tracker/issues) and clearly describe:
 - What you would like to happen
 - Why you think this feature would be useful
 - Any alternative solutions you have considered
