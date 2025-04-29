@@ -47,8 +47,8 @@ Built with [Jetpack Compose](https://developer.android.com/jetpack/compose) and 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/jinnys-patch-tracker.git
-   cd jinnys-patch-tracker
+   git clone https://github.com/imknott/jinnys_patch_tracker.git
+   cd jinnys_patch_tracker
    ```
 
 2. **Open the project in Android Studio.**
@@ -83,7 +83,7 @@ If you plan to fork or distribute your own version, remember to:
 ## Contributing
 
 Contributions are always welcome!  
-Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for details on the code of conduct, and the process for submitting pull requests.
+Please read the [CONTRIBUTING.md](Contributing.md) for details on the code of conduct, and the process for submitting pull requests.
 
 ---
 
