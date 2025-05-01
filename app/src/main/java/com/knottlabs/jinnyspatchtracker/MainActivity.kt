@@ -1,11 +1,10 @@
-package com.example.jinnyspatchtracker
+package com.knottlabs.jinnyspatchtracker
 
-import android.content.Intent
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-import com.example.jinnyspatchtracker.ui.MainApp
-import com.example.jinnyspatchtracker.ui.theme.JinnysPatchTrackerTheme
+import com.knottlabs.jinnyspatchtracker.ui.MainApp
+import com.knottlabs.jinnyspatchtracker.ui.theme.JinnysPatchTrackerTheme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

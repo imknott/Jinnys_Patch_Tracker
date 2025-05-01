@@ -41,9 +41,9 @@
         android:name=".ReminderReceiver"
         android:exported="false">
         <intent-filter>
-            <action android:name="com.example.jinnyspatchtracker.ACTION_REMINDER" />
-            <action android:name="com.example.jinnyspatchtracker.ACTION_SNOOZE" />
-            <action android:name="com.example.jinnyspatchtracker.ACTION_MARK_DONE" />
+            <action android:name="com.knottlabs.jinnyspatchtracker.ACTION_REMINDER" />
+            <action android:name="com.knottlabs.jinnyspatchtracker.ACTION_SNOOZE" />
+            <action android:name="com.knottlabs.jinnyspatchtracker.ACTION_MARK_DONE" />
         </intent-filter>
     </receiver>
 

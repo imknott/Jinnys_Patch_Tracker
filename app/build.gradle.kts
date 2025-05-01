@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.jinnyspatchtracker"
+    namespace = "com.knottlabs.jinnyspatchtracker"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.jinnyspatchtracker"
+        applicationId = "com.knottlabs.jinnyspatchtracker"
         minSdk = 24
         targetSdk = 35
         versionCode = 1

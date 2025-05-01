@@ -1,4 +1,4 @@
-package com.example.jinnyspatchtracker
+package com.knottlabs.jinnyspatchtracker
 
 import android.Manifest
 import android.content.BroadcastReceiver

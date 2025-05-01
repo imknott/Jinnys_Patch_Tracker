@@ -1,4 +1,4 @@
-package com.example.jinnyspatchtracker
+package com.knottlabs.jinnyspatchtracker
 
 import android.app.NotificationChannel
 import android.app.NotificationManager

@@ -1,4 +1,4 @@
-package com.example.jinnyspatchtracker
+package com.knottlabs.jinnyspatchtracker
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -1,7 +1,6 @@
-package com.example.jinnyspatchtracker.ui
+package com.knottlabs.jinnyspatchtracker.ui
 
 import android.widget.Toast
-import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
 import androidx.compose.foundation.clickable
@@ -22,7 +21,7 @@ import androidx.compose.ui.text.input.TextFieldValue
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
-import com.example.jinnyspatchtracker.DataStoreManager
+import com.knottlabs.jinnyspatchtracker.DataStoreManager
 import kotlinx.coroutines.launch
 
 @OptIn(ExperimentalMaterial3Api::class)

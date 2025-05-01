@@ -1,4 +1,4 @@
-package com.example.jinnyspatchtracker
+package com.knottlabs.jinnyspatchtracker
 
 import android.content.Context
 import android.os.Build
@@ -7,12 +7,9 @@ import androidx.datastore.preferences.preferencesDataStore
 import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.flow.map
 import kotlinx.serialization.Serializable
-import kotlinx.serialization.decodeFromString
 import kotlinx.serialization.encodeToString
 import kotlinx.serialization.json.Json
 import java.util.concurrent.TimeUnit
-import android.content.pm.PackageManager
-import android.Manifest
 import android.app.AlarmManager
 
 val Context.dataStore by preferencesDataStore(name = "patch_preferences")

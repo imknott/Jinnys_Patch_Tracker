@@ -1,9 +1,8 @@
-package com.example.jinnyspatchtracker.ui
+package com.knottlabs.jinnyspatchtracker.ui
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
-import androidx.compose.material.icons.filled.ArrowBack
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Alignment
@@ -11,9 +10,9 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalContext
 import androidx.navigation.NavController
-import com.example.jinnyspatchtracker.DataStoreManager
-import com.example.jinnyspatchtracker.Patch
-import com.example.jinnyspatchtracker.PatchHistoryContent
+import com.knottlabs.jinnyspatchtracker.DataStoreManager
+import com.knottlabs.jinnyspatchtracker.Patch
+import com.knottlabs.jinnyspatchtracker.PatchHistoryContent
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable

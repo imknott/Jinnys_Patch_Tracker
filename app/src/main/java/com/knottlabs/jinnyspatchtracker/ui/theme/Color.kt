@@ -1,4 +1,4 @@
-package com.example.jinnyspatchtracker.ui.theme
+package com.knottlabs.jinnyspatchtracker.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

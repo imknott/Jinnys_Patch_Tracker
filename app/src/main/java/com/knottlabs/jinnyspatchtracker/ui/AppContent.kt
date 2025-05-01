@@ -1,11 +1,8 @@
-package com.example.jinnyspatchtracker.ui
+package com.knottlabs.jinnyspatchtracker.ui
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.shape.RoundedCornerShape
-import androidx.compose.material.icons.Icons
-import androidx.compose.material.icons.filled.Menu
-import androidx.compose.material.icons.filled.Search
 import androidx.compose.material3.*
 import androidx.compose.runtime.*
 import androidx.compose.ui.Modifier
@@ -17,7 +14,7 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.compose.*
-import com.example.jinnyspatchtracker.DataStoreManager
+import com.knottlabs.jinnyspatchtracker.DataStoreManager
 import kotlinx.coroutines.delay
 @Composable
 fun MainApp() {

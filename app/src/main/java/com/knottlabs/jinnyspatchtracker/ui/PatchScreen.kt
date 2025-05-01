@@ -1,4 +1,4 @@
-package com.example.jinnyspatchtracker.ui
+package com.knottlabs.jinnyspatchtracker.ui
 
 import android.widget.Toast
 import androidx.compose.animation.AnimatedVisibility
@@ -10,7 +10,6 @@ import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.icons.filled.Add
-import androidx.compose.material.icons.outlined.MenuBook
 import androidx.compose.material.icons.filled.Delete
 import androidx.compose.material.icons.rounded.Info
 import androidx.compose.material3.*
@@ -23,17 +22,14 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
-import com.example.jinnyspatchtracker.DataStoreManager
-import com.example.jinnyspatchtracker.Patch
+import com.knottlabs.jinnyspatchtracker.DataStoreManager
+import com.knottlabs.jinnyspatchtracker.Patch
 import kotlinx.coroutines.launch
 import java.text.SimpleDateFormat
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.MenuBook
-import androidx.compose.material.icons.filled.Menu
-import androidx.compose.material.icons.filled.MenuBook
 import androidx.compose.material3.Icon
 import androidx.compose.ui.draw.rotate
-import androidx.compose.ui.res.painterResource
 import java.util.*
 
 @Composable
