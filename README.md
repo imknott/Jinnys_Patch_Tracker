@@ -63,11 +63,10 @@ Built with [Jetpack Compose](https://developer.android.com/jetpack/compose) and 
 
 Here are some previews of Jinny's Patch Tracker in action:
 
-| Home Screen | Add Patch Screen | Notification Reminder |
+| Home Screen | Add Patch Screen | Journal History Screen |
 | :---------: | :--------------: | :-------------------: |
-| ![Home Screen](Screenshot%202025-04-29%20135206.png) | ![Add Patch](screenshots/add_patch_screen.png) | ![Reminder Notification](screenshots/reminder_notification.png) |
+| ![Home Screen](Screenshot%202025-04-29%20135206.png) | ![Add Patch](Screenshot 2025-04-29 135241.png) | ![Journal History]() |
 
-> 📷 *Screenshots are located in the `/screenshots` folder. Update the images as needed.*
 
 ---
 
