@@ -65,7 +65,7 @@ Here are some previews of Jinny's Patch Tracker in action:
 
 | Home Screen | Add Patch Screen | Notification Reminder |
 | :---------: | :--------------: | :-------------------: |
-| ![Home Screen](screenshots/home_screen.png) | ![Add Patch](screenshots/add_patch_screen.png) | ![Reminder Notification](screenshots/reminder_notification.png) |
+| ![Home Screen](/main/Screenshot%202025-04-29%20135206.png) | ![Add Patch](screenshots/add_patch_screen.png) | ![Reminder Notification](screenshots/reminder_notification.png) |
 
 > 📷 *Screenshots are located in the `/screenshots` folder. Update the images as needed.*
 
