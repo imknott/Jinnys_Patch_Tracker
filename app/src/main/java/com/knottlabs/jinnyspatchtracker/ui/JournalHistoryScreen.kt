@@ -507,7 +507,7 @@ private fun rememberNativeAdsManager(entryCount: Int): List<NativeAd?> {
 
     LaunchedEffect(entryCount) {
         withContext(Dispatchers.IO) {
-            val TEST_AD_UNIT_ID = "ca-app-pub-7848605130142110/1142941683"
+            val TEST_AD_UNIT_ID = "Enter your ad unit here."
             val adCount = if (entryCount in 1..4) 1
             else (entryCount / 5).coerceAtLeast(1)
 
