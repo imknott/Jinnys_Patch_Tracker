@@ -65,7 +65,7 @@ Here are some previews of Jinny's Patch Tracker in action:
 
 | Home Screen | Add Patch Screen | Journal History Screen |
 | :---------: | :--------------: | :-------------------: |
-| ![Home Screen](Screenshot%202025-04-29%20135206.png) | ![Add Patch](Screenshot%2025-04-29%135241.png) | ![Journal History](Screenshot%202025-04-29%20135317.png) |
+| ![Home Screen](Screenshot%202025-04-29%20135206.png) | ![Add Patch](Screenshot%202025-04-29%20135241.png) | ![Journal History](Screenshot%202025-04-29%20135317.png) |
 
 
 ---
